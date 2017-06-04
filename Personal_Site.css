@@ -1,3 +1,5 @@
 .title { color:blue; font-size: 48px}
 .description { font-size: 10px; font-style: italic}
 .section {color:red; font-size: 24px}
+.link {font-size: 24px; font-style: bold}
+.blocktext {font: helvetica}
