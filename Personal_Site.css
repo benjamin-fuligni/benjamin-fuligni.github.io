@@ -6,6 +6,5 @@
 .section {color:red; font-size: 24px}
 /* used to make links larger */
 .link {font-size: 24px}
-/* used to differentiate blocks of text from
-   lists or definitions */
+/* used to differentiate blocks of text from lists or definitions */
 .blocktext {font-size: 18px; font: Arial; color: grey}
